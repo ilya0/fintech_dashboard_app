@@ -19,6 +19,10 @@ https://p5js.org/tutorials/
 d3
 https://d3fc.io/
 
+Pubnub
+https://www.pubnub.com/solutions/realtime-dashboards/
+
+
 Current issues:
 1. Creating a live streaming APi with data that will me immeidiately and unlimitedly accessible
 2. Creating a front end that will refresh itself continuously
