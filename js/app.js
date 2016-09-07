@@ -1,4 +1,8 @@
-// console.log("connected js");
+ console.log("connected js");
+
+ var testarray = {Math.floor(Math.random()*100),test11,Math.floor(Math.random()*100),test12,Math.floor(Math.random()*100),test13};
+ //test array
+
 // var angles = [ 30, 10, 45, 35, 60, 38, 75, 67 ];
 
 // function setup() {
