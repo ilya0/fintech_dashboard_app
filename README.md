@@ -18,3 +18,16 @@ https://p5js.org/tutorials/
 
 d3
 https://d3fc.io/
+
+Current issues:
+1. Creating a live streaming APi with data that will me immeidiately and unlimitedly accessible
+2. Creating a front end that will refresh itself continuously
+
+
+Current Ideas
+using pubnub to get api data
+using html to create a template
+finished product should use some sort of angualr or react
+I would prefer react
+Use p5 or d3 to create a motion graphic in html
+
