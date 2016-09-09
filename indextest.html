@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
+
+
   <head>
     <meta charset=utf-8 />
     <title>Taco Transport</title>
@@ -17,12 +19,16 @@
       }
     </style>
 
-   <script type="text/javascript" src="../../lib/eon.js"></script>
-   <link type="text/css" rel="stylesheet" href="../../lib/eon.css" />
+<script type="text/javascript" src="//pubnub.github.io/eon/v/eon/0.0.10/eon.js"></script>
+<link type="text/css" rel="stylesheet" href="//pubnub.github.io/eon/v/eon/0.0.10/eon.css"/>
 
   </head>
+
+
+
   <body>
-    <div id='map'></div>
+    <div id='map'> This is the map div</div>
+
     <script>
       function getNonZeroRandomNumber(){
         var random = Math.floor(Math.random()*199) - 99;
@@ -30,6 +36,7 @@
         return random;
       }
     </script>
+
     <script>
       eon.map({
         id: 'map',
@@ -57,5 +64,7 @@
         }, 1000);
       };
     </script>
+
   </body>
+
 </html>
