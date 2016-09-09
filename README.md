@@ -35,3 +35,7 @@ finished product should use some sort of angualr or react
 I would prefer react
 Use p5 or d3 to create a motion graphic in html
 
+Process - 
+I started off trying build a backend that would connect to the front end
+The main issue is that 
+
