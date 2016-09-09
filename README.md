@@ -37,5 +37,7 @@ Use p5 or d3 to create a motion graphic in html
 
 Process - 
 I started off trying build a backend that would connect to the front end
-The main issue is that 
+Biggest issue is being able to query apis rapidly, one time a second to get updates in live successon. SO I decided that I need to connect and api that will allow me to get live updates. SOmething that I can use is pubnub. Pubnub allows me to create packaged json data with all the various api pulls in one hit. This will forego the situation where I am making multiple pulls to various apis through ajax or a node back end.
+
+I would like to create just a front end where I can get data and display it for the ease of this project.
 
